@@ -1,0 +1,27 @@
+{
+  "name": "blob-image-convert",
+  "homepage": "https://github.com/arjun-g/blob-image-convert",
+  "description": "Convert image Blob and File to different formats (png, webp and jpeg)",
+  "main": "blob-image-convert.js",
+  "keywords": [
+    "blob",
+    "image",
+    "convert",
+    "javascript",
+    "image",
+    "conversion",
+    "blob",
+    "image"
+  ],
+  "authors": [
+    "Arjun G"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
